@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD4hh60oGFXPwjo1c8wJouZcF_T7_RLmRo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1079698941866</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.waterLevelApp</string>
+	<key>PROJECT_ID</key>
+	<string>water-level-app-71e7b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>water-level-app-71e7b.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1079698941866:ios:24994ffbb9dc831a4c2dd3</string>
+</dict>
+</plist>
